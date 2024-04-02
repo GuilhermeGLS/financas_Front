@@ -35,3 +35,6 @@ div{
     color: #ff0000;
 }
 
+.info-values p{
+    margin-bottom: 0.5rem;   
+}
